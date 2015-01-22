@@ -1,5 +1,5 @@
 ##HM-13_SW
-![image](http://www.seeedstudio.com/wiki/File:Grove_-_BLE_(dual_model)_v1.0_PhotoTop.jpg)
+![image](http://www.seeedstudio.com/wiki/images/6/6b/Grove_-_BLE_%28dual_model%29_v1.0_PhotoTop.jpg)
 
 The Bluetooth Module HM-13 has dual mode include EDR and BLE.
 
@@ -7,7 +7,7 @@ For more information, please refer to [Grove - BLE (dual model) v1.0][1]
 See also: [HM-01 Bluetooth Module Datasheet][2]
 
 ----
-This software is written by Jacky Zhang (![](http://www.seeedstudio.com/wiki/File:Email_addr_of_jacky_zhang.png)) from [Seeed Technology Inc.](http://www.seeed.cc) and is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check License.txt/LICENSE for the details of MIT license.<br>
+This software is written by Jacky Zhang (![](http://www.seeedstudio.com/wiki/images/8/8f/Email_addr_of_jacky_zhang.png)) from [Seeed Technology Inc.](http://www.seeed.cc) and is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check License.txt/LICENSE for the details of MIT license.<br>
 
 Contributing to this software is warmly welcomed. You can do this basically by<br>
 [forking](https://help.github.com/articles/fork-a-repo), committing modifications and then [pulling requests](https://help.github.com/articles/using-pull-requests) (follow the links above<br>
