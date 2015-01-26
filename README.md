@@ -1,4 +1,4 @@
-##HM-13_SW
+##HM_13_SW
 ![image](http://www.seeedstudio.com/wiki/images/6/6b/Grove_-_BLE_%28dual_model%29_v1.0_PhotoTop.jpg)
 
 The Bluetooth Module HM-13 has dual mode include EDR and BLE.
